@@ -1,36 +1,37 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Math magicians Project
 
-# Portfolio desktop version
+> it a setup for react module
 
-- Protfolio: (https://eng-mohamed-eldeeb.github.io/protofolio/)
+## Screenshot
 
-> this is the setup for the react math porject.
- 
+![screenshot](./img/sreenshot.png)
+
 ## Live Demo
 
 [Live Demo Link](https://eng-mohamed-eldeeb.github.io/Math_Magicians/)
 
 ## Clone and review it
 
-Run the following commands to clone and run it.
+## Run locally
 
+1. Clone the project using git-bash or Githup Desktop.
+2. Open the project folder with VSCode or any Editor.
+3. Open terminal and navigate to the project folder.
+4. Type `npm install`.
+5. Type `npm start`.
 
-![screenshot](./img/sreenshot.png)
+## Built With
 
-Additional description about the project and its features.
+- react
 
-## Authors
+## Author
 
-👤 **MOHAMED EL DEEB**
+👤 **Mohamed Eldeeb**
 
-- GitHub: [@githubhandle](https://github.com/eng-mohamed-eldeeb)
-- Twitter: [@twitterhandle](https://https://twitter.com/eldeeb_3o)
-- LinkedIn: [LinkedIn](https://https://www.linkedin.com/in/mohamed-eldeeb-a69022206/)
+- GitHub: [mohamed eldeeb](https://github.com/eng-mohamed-eldeeb)
+- Twitter: [mohamed eldeeb](https://twitter.com/eldeeb_3o)
+- LinkedIn: [mohamed eldeeb](https://www.linkedin.com/in/mohamed-eldeeb-a69022206/)
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+Give a ⭐ if you like this project!
