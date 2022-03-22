@@ -1,6 +1,6 @@
 ## Math magicians Project
 
-> it a setup for react module
+> it a UI for a calcluator
 
 ## Screenshot
 
