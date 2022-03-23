@@ -1,6 +1,6 @@
 ## Math magicians Project
 
-> it a UI for a calcluator
+> it a class based component for a calcluator
 
 ## Screenshot
 
@@ -29,7 +29,9 @@
 👤 **Mohamed Eldeeb**
 
 - GitHub: [mohamed eldeeb](https://github.com/eng-mohamed-eldeeb)
+
 - Twitter: [mohamed eldeeb](https://twitter.com/eldeeb_3o)
+
 - LinkedIn: [mohamed eldeeb](https://www.linkedin.com/in/mohamed-eldeeb-a69022206/)
 
 ## Show your support
