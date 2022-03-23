@@ -1,6 +1,6 @@
 ## Math magicians Project
 
-> it a UI for a calcluator
+> it a class based component for a calcluator
 
 ## Screenshot
 
