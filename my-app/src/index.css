@@ -8,9 +8,43 @@
   width: 100%;
   height: 100vh;
   background-color: #131313;
+  color: #fff;
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.navContaner {
+  padding: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  background: #7f7fd5; /* fallback for old browsers */
+  background:
+    linear-gradient(
+      to right,
+      #91eae4,
+      #86a8e7,
+      #7f7fd5
+    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.nav {
+  width: 80%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 2rem;
+}
+
+.navLinks {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
 }
 
 .constaner {
@@ -19,6 +53,14 @@
   height: 50%;
   display: grid;
   grid-template-rows: 1fr 5fr;
+}
+
+p {
+  font-size: 1.5rem;
+}
+
+.Quote {
+  font-size: 2rem;
 }
 
 .answer {
@@ -32,6 +74,13 @@
   height: 100%;
   display: flex;
   flex-direction: column;
+}
+
+.wilcom {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  max-width: 60%;
 }
 
 .a-row {

@@ -1,6 +1,6 @@
 import React from 'react';
 import calculate from '../logic/calculate';
-//The changes are below
+// The changes are below
 function Element() {
   const [state, setState] = React.useState({});
 
