@@ -76,6 +76,7 @@ p {
 }
 
 .wilcom {
+  color: #fff;
   display: flex;
   flex-direction: column;
   gap: 3rem;
