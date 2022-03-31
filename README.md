@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://eng-mohamed-eldeeb.github.io/Math_Magicians/)
+[Live Demo Link](https://math-start.herokuapp.com/Calculator)
 
 ## Clone and review it
 

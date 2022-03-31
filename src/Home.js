@@ -1,6 +1,6 @@
 const Home = () => (
   <div className="wilcom">
-    <h1>Wilcome Wilcome to the page</h1>
+    <h1>Wellcome Wellcome to the page</h1>
     <p>
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio nemo magni,
       nesciunt non doloribus itaque perferendis, expedita sit minus rem
