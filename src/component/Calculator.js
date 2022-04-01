@@ -13,7 +13,7 @@ function Element() {
   return (
     <div className="constaner">
       <div className="answer">
-        <h1>{[total, operation, next]}</h1>
+        <h1 data-testid="output">{[total, operation, next]}</h1>
       </div>
       <div className="btnWrapper">
         <div className="a-row">
